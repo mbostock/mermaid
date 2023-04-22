@@ -67,7 +67,7 @@ In this example, we have given our custom id's to the commits.
 
 ### Modifying commit type
 
-In Mermaid, a commit can be of three type, which render a bit different in the diagram. These types are:
+In Mermaid, a commit can be of three types, which render a bit different in the diagram. These types are:
 - `NORMAL` : Default commit type. Represented by a solid circle in the diagram
 - `REVERSE` : To emphasize a commit as a reverse commit. Represented by a crossed solid circle in the diagram.
 - `HIGHLIGHT` : To highlight a particular commit in the diagram. Represented by a filled rectangle in the diagram.
